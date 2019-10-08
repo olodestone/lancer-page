@@ -1,0 +1,55 @@
+article {
+    background-color:#091429;
+    padding: 25px;
+}
+
+footer {
+    background-color: white;
+    padding: 25px;
+}
+
+.enter-div {
+    text-align: center;
+    color: white;
+    font-weight: normal;
+    font-style: normal;
+    
+}
+
+#enter-line {
+    line-height: 65px;
+}
+
+#lancer {
+
+font-style: normal;
+font-weight: normal;
+font-family: 'Pacifico', cursive;
+font-size: 20px;
+}
+
+#btn-sub {
+    background: #0ABAB5;
+    border-radius: 4px;
+    color: #FFFFFF;
+}
+
+#email-input {
+background: #FFFFFF;
+border: 1px solid #C4C4C4;
+box-sizing: border-box;
+border-radius: 2px;
+color: black;
+}
+
+.btn {
+background: #091429;
+border: 1px solid #0ABAB5 ;
+color: #0ABAB5;
+box-sizing: border-box;
+border-radius: 6px;
+}
+
+.link {
+    color: black;
+}
